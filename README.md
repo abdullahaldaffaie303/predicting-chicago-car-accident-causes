@@ -1,4 +1,4 @@
-# Introduction:
+# Predicting Primary Causes for Car Accidents in Chicago
 
 Improving traffic safety is a major concern for any metropolitan city. In 2018 alone, there were 36,560 car crash related fatalities that occurred within the U.S. In order to counter and help eliminate car crash fatalities, initiatives such as Vision Zero have been taken up. A number of cities such as New York City and Chicago have followed this initiative within their cities to help promote traffic safety. The core concept behind this initiative is that traffic crashes are preventable and even one life lost is far too many.
 
@@ -37,3 +37,5 @@ Multiclass classification models were used in order to try to classify these inc
 # Conclusions and Future Work:
 
 From my analysis, I believe that the promotion of slower and less aggressive driving will result in fewer major incidents occurring. In addition, promoting driver safety especially those active at night will be able to prevent late night car accidents from occurring. Continuing to test our model against historical and more current data will allow us to make adjustments to improve overall performance. In addition, collaboration with other cities such as New York City that maintain accessible traffic records will allow for more effective traffic safety programs to be developed.
+
+Link to Medium blog about this project: https://medium.com/@msf894/flatiron-school-project-3-chicago-car-crash-dataset-590c5fe0417e
